@@ -1,0 +1,23 @@
+body{
+    
+    background-image: url('http://4.bp.blogspot.com/-wlPXhMD-slI/UIl0LdwXvGI/AAAAAAAAORA/rH27hvz_Lfw/s1600/abstrato-em-azul-e-vermelho-com-fundo-preto-wallpaper-pc-computador-tela-gratis-ambiente-de-trabalho.jpg')
+}
+
+.button1{color: rgb(0, 0, 0);
+    width: 166px;
+    height: 35px;
+}
+.button2{ color: rgb(0, 0, 0);
+    width: 166px;
+    height: 35px;
+}
+.div1{
+color: chocolate;
+}
+
+h1{
+    color: rgb(0, 255, 0);
+}
+p{
+    color: yellow;
+}
